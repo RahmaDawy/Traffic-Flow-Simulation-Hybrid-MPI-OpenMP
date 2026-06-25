@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TrafficFlow/TrafficFlow.vcxproj" Id="5e24f6b4-a2c1-44b4-be00-6663e63daf13" />
+</Solution>

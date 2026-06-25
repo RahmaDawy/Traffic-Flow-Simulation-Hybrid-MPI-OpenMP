@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# Temporary files
+*.log
+*.tmp
+
+# Generated CSV files
+traffic_data.csv
+performance_results.csv
